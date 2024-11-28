@@ -1,5 +1,5 @@
 # Microsoft Word: Moćan alat za obradu teksta
-**Autor:** Vaše Ime i Prezime  
+**Autor:** Nino Vrsaljko  
 **Studijski program:** Stručni prijediplomski studij Informacijske tehnologije  
 **Predmet:** Akademsko i tehničko pisanje  
 **Datum izrade:** 28. studenog 2024.  
